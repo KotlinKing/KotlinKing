@@ -1,4 +1,8 @@
-[![MasterHead](https://bit.ly/3rlsCH4)](https://github.com/KotlinKing)
+<div align="center">
+  <a href="https://github.com/KotlinKing/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Abhishek Dharmik</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
