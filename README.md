@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kotlinking&label=Profile%20views&color=0e75b6&style=flat" alt="kotlinking" /> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Android (Kotlin)**
 
 - 🌱 I’m currently learning **Flutter**
 
