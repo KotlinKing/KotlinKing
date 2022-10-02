@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kotlinking&label=Profile%20views&color=0e75b6&style=flat" alt="kotlinking" /> </p>
-
 - 🔭 I’m currently working on **Android (Kotlin)**
 
 - 🌱 I’m currently learning **Flutter**
