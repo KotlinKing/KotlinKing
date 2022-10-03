@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Dharmik</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gif">
+<img align="right" alt="Coding" width="250" src="https://blogger.googleusercontent.com/img/a/AVvXsEgrmPoE9YbYe0az3HbJCDD828M65a11ZKyQi4rn_6bUqu8yiUh3uQzhrZ8QZEVmySM5B9vfFFagnHIH8jbcvKZC4LnALv9Rejo3v11xqifmvVIrCVC38w82SbC33rfnk_JTnH5CJypkOtjLUg8FoS5EmO1jzhe1lUFpp62oW8wy3t6TikSyQqoPdW-I">
 
 - 🔭 I’m currently working on **Android (Kotlin)**
 
