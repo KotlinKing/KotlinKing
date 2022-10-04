@@ -3,7 +3,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Abhishek Dharmik</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Dharmik</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://blogger.googleusercontent.com/img/a/AVvXsEgrmPoE9YbYe0az3HbJCDD828M65a11ZKyQi4rn_6bUqu8yiUh3uQzhrZ8QZEVmySM5B9vfFFagnHIH8jbcvKZC4LnALv9Rejo3v11xqifmvVIrCVC38w82SbC33rfnk_JTnH5CJypkOtjLUg8FoS5EmO1jzhe1lUFpp62oW8wy3t6TikSyQqoPdW-I">
 
